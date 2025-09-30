@@ -1,4 +1,4 @@
-USE course_platform;
+USE codeloop;
 
 DELIMITER //
 

@@ -1,4 +1,4 @@
-USE course_platform;
+USE codeloop;
 
 INSERT INTO `user` (name, email, password_hash, role, status) VALUES
 ('Ana María García', 'ana.garcia@email.com', '$2b$12$hash1', 'ESTUDIANTE', 'ACTIVO'),

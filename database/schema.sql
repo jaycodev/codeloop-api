@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS course_platform;
-CREATE DATABASE course_platform;
-USE course_platform;
+DROP DATABASE IF EXISTS codeloop;
+CREATE DATABASE codeloop;
+USE codeloop;
 
 CREATE TABLE `user` (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
