@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEs
+## IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/target/
+
+## Eclipse
+/.classpath
+/.project
+/.settings/
+/bin/
+
+## VS Code
+.vscode/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot specific
+spring-boot-app.jar
+
+# Environment-specific configuration files
+src/main/resources/application-local.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files (if used)
+.env
