@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.4</version>
+		<version>3.5.6</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.course</groupId>
-	<artifactId>course-platform</artifactId>
+	<groupId>com.codeloop</groupId>
+	<artifactId>codeloop</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<name>course-platform</name>
+	<name>codeloop</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -91,4 +91,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
