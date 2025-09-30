@@ -1,0 +1,28 @@
+{
+  "editor.defaultFormatter": "redhat.java",
+  "editor.formatOnSave": true,
+
+  "[java]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "redhat.java"
+  },
+
+  "editor.detectIndentation": false,
+
+  "files.exclude": {
+    "**/.idea": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/target": true,
+    "**/.mvn": true,
+    "**/mvnw": true,
+    "**/mvnw.cmd": true,
+    "**/src/test": true
+  },
+
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
